@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz And Earn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_id">ca-app-pub-7016965765890979~6122529998</string>
+    <string name="ad_id">ca-app-pub-7016965765890979/3651962094</string>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432006656743",
+    "project_id": "quiz-and-earn-43a5b",
+    "storage_bucket": "quiz-and-earn-43a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432006656743:android:eb021f3c7a4d0959662842",
+        "android_client_info": {
+          "package_name": "com.example.answerandearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432006656743-3mq5u7r9tnamgl9hd23b1kgm3a55aj7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsUw7TAJhumgf-wwSlHTvWAul14Pkffpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432006656743-3mq5u7r9tnamgl9hd23b1kgm3a55aj7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

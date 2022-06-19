@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/allan</item>
+        <item>@font/amaranth</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/arimo</item>
+        <item>@font/basic</item>
+        <item>@font/cantata_one</item>
+        <item>@font/cherry_swash</item>
+    </array>
+</resources>
